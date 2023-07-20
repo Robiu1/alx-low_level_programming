@@ -1,6 +1,6 @@
 # More functions, more nested loops
 
-Project done during *Full Stack Software Engineering studies* at **ALX School** by Robiu1. It aims to learn about nested loops in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX School** by Robiu1. It aims to learn about nested loops in **C language**.
 
 ## Technologies
 * C files are compiled using `gcc 4.8.4`
@@ -12,7 +12,7 @@ All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |
-| `0-isupper.c` | Checks for uppercase character |
+| `0-isupper.c` | Checs for uppercase character |
 | `1-isdigit.c` | Checks for a digit (`0` through `9`) |
 | `2-mul.c` | Multiplies two integers |
 | `3-print_numbers.c` | Prints the numbers, from `0` to `9` |
@@ -25,4 +25,3 @@ All of the following files are programs written in C:
 | `10-print_triangle.c` | Prints a triangle |
 | `100-prime_factor.c` | Finds and prints the largest prime factor of the number `612852475143` |
 | `101-print_number.c` | Prints an integer |
-
