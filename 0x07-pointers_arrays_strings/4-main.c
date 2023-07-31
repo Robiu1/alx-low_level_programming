@@ -8,11 +8,11 @@
  */
 int main(void)
 {
-char *s = "hello, world";l
-char *f = "world";l
+char *s = "hello, world";
+char *f = "world";
 char *t;
 
 t = _strpbrk(s, f);
-printf("%s\n", t);l
+printf("%s\n", t);
 return (0);
 }
